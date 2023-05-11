@@ -2,17 +2,13 @@
 
 :root {
   --mainBlue: #82e8f9;
-  /* #7FD1E4; */
   --transparentBlue: rgba(130, 232, 249, .7);
   --mainWhite: #FFFFFF;
   --mainBlack: #292F36;
-  /* --mainGrey: rgb(216, 214, 214); */
   --mainGrey: #F5E5FC;
   --mainGreen: #002E2C;
-  /* --mainYellow: #FCFF4B; */
   --mainYellow: #FFE74C;
   --mainOrange: #FC6218;
-  /* #F26A40; */
 }
 
 
@@ -20,6 +16,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: var(--mainBlack);
   background: var(--mainWhite);
+  overflow-x: hidden;
 }
 
 /* REM values to target root element 1REM = 16px */
@@ -123,6 +120,7 @@ a:hover {
   color: var(--mainWhite);
   clip-path: polygon(0% 0%, 100% 0%, 100% 95%, 50% 100%, 0% 95%);
   overflow: hidden;
+  
 }
 
 .height-max::after {
