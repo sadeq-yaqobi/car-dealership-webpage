@@ -80,4 +80,4 @@ Contributions to the Car Dealership Webpage project are welcome. If you would li
 5. Submit a pull request, providing a clear description of the changes you have made.
 
 ## License
-The Car Dealership Webpage project is licensed under the [MIT License](LICENSE).
+The Car Dealership Webpage project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
