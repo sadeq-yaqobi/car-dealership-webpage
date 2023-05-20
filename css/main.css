@@ -81,7 +81,7 @@ a:hover {
   transition: 0.2s;
 }
 .toggle-language {
-  font-family: "IRANSansWeb";
+  font-family: "IRANSansWeb"!important;
   color: var(--mainBlack);
   transition: all .3s;
 }
