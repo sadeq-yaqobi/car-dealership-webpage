@@ -2,7 +2,7 @@
 
 *Read this file in [English](README.md) | [فارسی](README.fa.md)*
 
-This is a web project for a car dealership webpage, showcasing available cars and providing information to potential customers. The project includes both English and Persian versions of the webpage.The webpage is built using Bootstrap, a popular front-end framework, to enhance the user interface and provide a responsive design. 
+This is a bilingual web project for a car dealership webpage, showcasing available cars and providing information to potential customers. The project includes both English and Persian versions of the webpage.The webpage is built using Bootstrap, a popular front-end framework, to enhance the user interface and provide a responsive design. 
 
 Explore the Car Dealership webpage [here](https://sadeq-yaqobi.github.io/car-dealership-webpage/).
 
