@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 @font-face {
   font-family: "IRANSansWeb";
-  src: url(fonts/IRANSansWeb.woff) format("woff");
+  src: url(../fonts/IRANSansWeb.woff) format("woff");
 }
 
 :root {
