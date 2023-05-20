@@ -4,16 +4,7 @@
 
 This is a web project for a car dealership webpage, showcasing available cars and providing information to potential customers. The project includes both English and Persian versions of the webpage.The webpage is built using Bootstrap, a popular front-end framework, to enhance the user interface and provide a responsive design. 
 
-
-![preview car dealership image](img/preview-car-dealership-img-01.png)
-![preview car dealership image](img/preview-car-dealership-img-02.png)
-![preview car dealership image](img/preview-car-dealership-img-03.png)
-![preview car dealership image](img/preview-car-dealership-img-04.png)
-![preview car dealership image](img/preview-car-dealership-img-05.png)
-![preview car dealership image](img/preview-car-dealership-img-06.png)
-![preview car dealership image](img/preview-car-dealership-img-07.png)
-![preview car dealership image](img/preview-car-dealership-img-08.png)
-![preview car dealership image](img/preview-car-dealership-img-09.png)
+Explore the Car Dealership webpage [here](https://sadeq-yaqobi.github.io/car-dealership-webpage/).
 
 ## Table of Contents
 
@@ -30,8 +21,7 @@ The Car Dealership Webpage project aims to create an interactive and user-friend
 
 **به فارسی:** این پروژه شامل نسخه‌های فارسی و انگلیسی صفحه وب فروشگاه خودرو است.
 
-![preview car dealership image](img/preview-car-dealership-img-fa-01.png)
-![preview car dealership image](img/preview-car-dealership-img-fa-02.png)
+
 
 ## Features
 - Browse and search available cars
